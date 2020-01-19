@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.7-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-3.0-brightgreen.svg)](https://djangoproject.com)
 
-Code example used in the tutorial "How to Use Chart.js with Django".
+Code example used in the tutorial [How to Use Chart.js with Django](https://simpleisbetterthancomplex.com/tutorial/2020/01/19/how-to-use-chart-js-with-django.html).
 
 ## Running the Project Locally
 
